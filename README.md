@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-chavan05/">LinkedIn</a> •
-  <a href="https://your-portfolio.com">Portfolio</a>
+  <a href="https://yashchavan.vercel.app">Portfolio</a>
 </p>
 
 ---
