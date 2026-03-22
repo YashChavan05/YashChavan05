@@ -29,7 +29,6 @@
 > Organizes everything you consume online into structured knowledge  
 
 - ⚙️ Tech: MERN + AI APIs  
-- 🌍 Live: https://your-memora-link.com  
 - 📂 Repo: https://github.com/YashChavan05/memora  
 
 ---
@@ -38,7 +37,6 @@
 > Real-time stock insights + sentiment analysis  
 
 - ⚙️ Tech: Python + Streamlit + APIs  
-- 🌍 Live: https://your-stoxight-link.com  
 - 📂 Repo: https://github.com/YashChavan05/stoxight  
 
 ---
@@ -61,7 +59,7 @@
 
 ## 🛠 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,flutter,firebase,git,github" />
 </p>
 
@@ -87,7 +85,7 @@
 ## 🌍 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/your-link">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/yash-chavan05/">LinkedIn</a> •
   <a href="https://your-portfolio.com">Portfolio</a>
 </p>
 
