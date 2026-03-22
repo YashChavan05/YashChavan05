@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Yash Chavan
 
-<!--
-**YashChavan05/YashChavan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | AI Builder | Hackathon Enthusiast  
 
-Here are some ideas to get you started:
+- 🔭 Currently building: AI Context Engine  
+- 🌱 Learning: System Design & Scalable AI  
+- 💡 Interests: AI, Web Apps, Automation  
+- ⚡ Fun fact: I build projects that actually solve problems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Frontend: React, Flutter  
+- Backend: Node.js, Express  
+- AI: Python, APIs, NLP  
+- Database: MongoDB  
+
+## 📌 Featured Projects
+- 🧠 Memora – AI Context Engine  
+- 📊 Stoxight – Stock Market Analyzer  
+- ♻️ Greenify – Sustainability App  
+
+## 📫 Connect with me
+- LinkedIn: (your link)
+- Portfolio: (if any)
