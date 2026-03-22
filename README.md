@@ -19,5 +19,5 @@
 - ♻️ Greenify – Sustainability App  
 
 ## 📫 Connect with me
-- LinkedIn: (your link)
+- LinkedIn: https://www.linkedin.com/in/yash-chavan05/
 - Portfolio: (if any)
